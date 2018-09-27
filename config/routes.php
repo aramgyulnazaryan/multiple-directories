@@ -7,6 +7,5 @@ return $routing = [
     'create/levelthree' => ['controller' => 'HomeController', 'action' => 'createLavelThree'],
     'create/levelfour' => ['controller' => 'HomeController', 'action' => 'createLavelFour'],
     'get/child/directory' => ['controller' => 'HomeController', 'action' => 'getChildDirectory'],
-    'filter' => ['controller' => 'HomeController', 'action' => 'getDirectoryByName'],
-
+    'filter' => ['controller' => 'HomeController', 'action' => 'getDirectoryByName']
 ];
