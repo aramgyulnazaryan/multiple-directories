@@ -1,0 +1,29 @@
+.level_cont {
+    margin-top: 20px;
+}
+
+.level_cont ul > li {
+    width: max-content;
+    display: block;
+    margin: 10px;
+}
+
+.msg .success{
+    background-color: #4cd24c;
+}
+
+.msg .error{
+    background-color: #ff1c0e;
+}
+
+.getchilddirectories {
+    cursor: pointer;
+    font-size: 19px;
+    padding: 6px 11px;
+}
+
+.open {
+    cursor: pointer;
+    font-size: 19px;
+    padding: 6px 11px;
+}
